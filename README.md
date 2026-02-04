@@ -1,2 +1,30 @@
-# coding_test
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# Algorithm Study (JavaScript / Node.js)
+
+Node.js 기반 코딩 테스트 연습용 레포입니다.  
+동계 방학 동안 주차별로 문제를 풀며 자료 구조와 알고리즘을 학습합니다.
+
+---
+
+## 🚀 Rules
+
+- 협업 학습: C++과 JavaScript 동료들과 주차별 문제 풀이 진행 (총 3명)  
+- 미팅: 수요일 & 일요일  
+  - 미팅 진행 시, 문제를 하나에서 두 개 정도 더 고민하고 직접 코드로 구현해보는 시간을 가집니다.  
+- 피어 리뷰: Python, C++, JS 간 논리 차이를 비교하고 최적화 방법을 토론합니다.  
+- AI 사용 금지: 순수 문제 해결 능력 강화를 위해 AI 사용은 금지합니다.  
+  - 단, 최소 1시간 이상 진행 후 진전이 없으면 참고는 허용됩니다.
+
+---
+
+## 🛠️ Structure (주제)
+
+- 수학  
+- 자료 구조  
+- 재귀 & 정렬  
+- 다이나믹 프로그래밍 (DP)  
+- 그래프 기초 (DFS & BFS)  
+- 그래프 응용 / 최단 경로  
+- 이분탐색 & 분할 정복  
+- 그리디 알고리즘  
+- 완전 탐색 & 시뮬레이션  
+- 구현
